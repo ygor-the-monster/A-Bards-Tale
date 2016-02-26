@@ -1,0 +1,13 @@
+[0225/141740:INFO:nw_package.cc(175)] "C:\Users\ygorh\Documents\NW.js\A Bards Tale\Node\nw.exe" Game
+[0225/141813:INFO:nw_package.cc(175)] "C:\Users\ygorh\Documents\NW.js\A Bards Tale\Node\nw.exe" Game
+[0225/141929:INFO:nw_package.cc(175)] "C:\Users\ygorh\Documents\NW.js\A Bards Tale\Node\nw.exe" Game
+[0225/141932:INFO:nw_package.cc(175)] "C:\Users\ygorh\Documents\NW.js\A Bards Tale\Node\nw.exe" Game
+[0225/141948:INFO:nw_package.cc(175)] "C:\Users\ygorh\Documents\NW.js\A Bards Tale\Node\nw.exe"
+[0225/142147:INFO:nw_package.cc(175)] "C:\Users\ygorh\Documents\NW.js\A Bards Tale\Node\nw.exe" "..\Game"
+[0225/142148:ERROR:image_metadata_extractor.cc(112)] Couldn't load libexif. 126
+[0225/142308:INFO:nw_package.cc(175)] "C:\Users\ygorh\Documents\NW.js\A Bards Tale\Node\nw.exe" "..\Game"
+[0225/142332:INFO:nw_package.cc(175)] "C:\Users\ygorh\Documents\NW.js\A Bards Tale\Node\nw.exe" "..\Game"
+[0225/144128:INFO:nw_package.cc(175)] "C:\Users\ygorh\Documents\NW.js\A Bards Tale\Node\nw.exe" "..\Game"
+[0225/144158:ERROR:image_metadata_extractor.cc(112)] Couldn't load libexif. 126
+[0225/144229:ERROR:image_metadata_extractor.cc(112)] Couldn't load libexif. 126
+[0226/110249:INFO:nw_package.cc(175)] "C:\Users\ygorh\Documents\GitHub\A-Bards-Tale\src\Node\nw.exe" "..\Game"

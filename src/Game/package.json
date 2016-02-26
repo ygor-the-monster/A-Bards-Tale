@@ -1,0 +1,12 @@
+{
+  "main" : "game.html",
+  "name" : "bards-tale",
+  "version" : "0.0.0",
+  "window": {
+    "title" : "A Bards Tale",
+    "width" : 960,
+    "heigth" : 640,
+    "toolbar" : false,
+    "resizable" : false
+  }
+}
